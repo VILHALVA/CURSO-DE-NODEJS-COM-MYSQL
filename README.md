@@ -129,3 +129,4 @@ O conceito de Node.js com MySQL envolve a combinação do ambiente de tempo de e
 - [VEJA O CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:NODEJS+topic:MYSQL)
